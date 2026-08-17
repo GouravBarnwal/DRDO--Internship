@@ -1,0 +1,5 @@
+test,matches,inliers,inlier_ratio
+trolley normal vs rotated,37,15,0.40540540540540543
+trolley normal vs zoomed,889,576,0.6479190101237345
+wall normal vs rotated,1048,911,0.8692748091603053
+wall normal vs zoomed,610,433,0.7098360655737705
