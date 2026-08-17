@@ -1,0 +1,5 @@
+test,kpts1,kpts2,matches,inliers,inlier_ratio
+portrait-trolley vs trolley-45-rotated,2686,3288,2686,490,0.18242740134028296
+portrait-trolley vs zoomed-trolley,2686,2862,2686,494,0.18391660461653014
+portrait-wall vs 90-rotated-wall,5000,2604,5000,1916,0.3832
+portrait-wall vs zoomed-wall,5000,3738,5000,1087,0.2174
